@@ -124,6 +124,7 @@ margin-bottom: 10px;
   .app {
     height: auto;
     padding-bottom: 400px;
+    background-position: bottom center;
     background: no-repeat bottom center;
   }
 
