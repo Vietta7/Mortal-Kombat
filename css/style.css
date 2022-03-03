@@ -5,7 +5,7 @@
 body {
   background: #010202;
   font-family: sans-serif;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 a {
@@ -45,7 +45,12 @@ a {
 }
 
 .app {
-  background: linear-gradient(90deg, #010202 0%, #010202 43%, rgba(1, 2, 2, 0.2) 90.9%);
+  background: linear-gradient(
+    90deg,
+    #010202 0%,
+    #010202 43%,
+    rgba(1, 2, 2, 0.2) 90.9%
+  );
   min-height: 100vh;
   color: #fff;
 }
@@ -63,18 +68,18 @@ a {
   align-items: flex-start;
   flex-wrap: wrap;
   opacity: 0.4;
-  color: #E5E5E5;
+  color: #e5e5e5;
   font-size: 16px;
   line-height: 140%;
 }
 
 .tags > * {
-margin-right: 15px;
-margin-bottom: 10px;
+  margin-right: 15px;
+  margin-bottom: 10px;
 }
 
 .age {
-  border: 1px solid #FFFFFF;
+  border: 1px solid #ffffff;
   border-radius: 2px;
   padding: 1px 5px;
 }
@@ -92,13 +97,13 @@ margin-bottom: 10px;
   border: none;
   font-size: 16px;
   line-height: 140%;
-  background: #2F2F2F;
+  background: #2f2f2f;
   color: #fff;
   cursor: pointer;
 }
 
 .button-primaty {
-  background: #EA6E20;
+  background: #ea6e20;
   margin-right: 15px;
 }
 
@@ -158,10 +163,3 @@ margin-bottom: 10px;
     margin-bottom: 10px;
   }
 }
-
-
-
-
-
-
-
