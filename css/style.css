@@ -108,6 +108,18 @@ margin-bottom: 10px;
   color: #fff;
 }
 
+.modal {
+  width: 50%;
+}
+
+.modal-form {
+  width: 90%;
+}
+
+.modal-form-email {
+  width: 100%;
+}
+
 @media (max-width: 768px) {
   .app {
     height: auto;
