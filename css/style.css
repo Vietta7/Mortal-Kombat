@@ -129,7 +129,8 @@ a {
   .app {
     height: auto;
     padding-bottom: 480px;
-    background: url(../img/cover-image.jpg)no-repeat bottom center / 300px;
+    background-position: bottom center;
+    background: url(../img/cover-image.jpg)no-repeat;
   }
   video {
     display: none;
@@ -154,8 +155,12 @@ a {
   .user-name {
     display: none;
   }
+  video {
+    display: none;
+  }
   .app {
     padding-bottom: 350px;
+     background-position: bottom center;
     background-size: 300px;
   }
   .button {
