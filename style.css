@@ -125,7 +125,8 @@ margin-bottom: 10px;
     height: auto;
     padding-bottom: 400px;
     background-position: bottom center;
-    background: no-repeat bottom center;
+    background-image: url('../img/cover-image.jpg');
+    background: no-repeat;
   }
 
 
